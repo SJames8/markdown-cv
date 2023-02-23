@@ -7,7 +7,7 @@ title: Shanae James's CV
 A creative, hardworking, jovial individual seeking to fully utilize their excellent customer service and administrative skills to meet the employer's expectations.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[EDUCATION]{.underline}:
+[EDUCATION]:
 ========================
 
 **San Diego State University, San Diego, CA**
