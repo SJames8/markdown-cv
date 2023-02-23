@@ -7,7 +7,7 @@ title: Shanae James's CV
 A creative, hardworking, jovial individual seeking to fully utilize their excellent customer service and administrative skills to meet the employer's expectations.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[EDUCATION]:
+EDUCATION:
 ========================
 
 **San Diego State University, San Diego, CA**
@@ -30,10 +30,10 @@ AA in Behavioral Science
 
 June 2021
 
-[SKILLS]{.underline}:
+SKILLS
 =====================
 
--   Proficient in Microsoft Suite (Word, PowerPoint, Excel) [ ]{.underline} 
+-   Proficient in Microsoft Suite (Word, PowerPoint, Excel)  
     =======================================================================
 
 -   ### Excel in confidentiality and integrity 
@@ -46,7 +46,7 @@ June 2021
 
 -   ### Multi-tasking 
 
-[EXPERIENCE]{.underline}:
+EXPERIENCE
 =========================
 
 ### San Diego County \| Accessors and Records 
